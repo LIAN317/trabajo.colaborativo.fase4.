@@ -1,3 +1,5 @@
 print("Bienvenidos al curso de Programación")
 print("Universidad Nacional Abierta y a Distancia")
 print("Profesor: Sin asignar")
+print("Nombre estudiantes: Sin asignar")
+print("Codigo grupo: Sin asignar")
